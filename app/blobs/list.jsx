@@ -28,7 +28,7 @@ export function StoredBlobsList({ lastMutationTime }) {
             <div className="flex flex-col gap-1 w-full bg-white text-neutral-900 min-h-56 card">
                 <div className="card-body text-md">
                     {!keys?.length ? (
-                        <span>Please upload some shapes!</span>
+                        <span><a href="https://yalla-play.net"> Yalla Play </a></span>
                     ) : (
                         keys.map((keyName) => {
                             const isSelected = keyName === selectedKey;
