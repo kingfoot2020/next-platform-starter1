@@ -32,7 +32,7 @@ export default function Page() {
         <main className="flex flex-col gap-8 sm:gap-16">
             <section className="flex flex-col items-start gap-3 sm:gap-4">
                 <ContextAlert />
-                <h1 className="mb-0">Netlify Platform Starter - Next.js</h1>
+                <h1 className="mb-0">Play games Online Free</h1>
                 <p className="text-lg">Get started with <a href="https://yalla-play.net"> Yalla Play </a> and Netlify in seconds.</p>
                 <Link
                     href="https://docs.netlify.com/frameworks/next-js/overview/"
