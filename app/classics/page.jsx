@@ -10,7 +10,7 @@ Some classic (and much-loved) Netlify features were born when most sites we host
 For example, [Netlify Forms](https://docs.netlify.com/forms/setup/) do their magic based on automatic detection of specially-marked form tags in static HTML files. 
 
 This has [required some adjustments](https://docs.netlify.com/forms/setup/#javascript-forms) for the age of SPA and SSR. 
-With modern Next.js versions, no page is truly static: as a developer, you can revalidate any page. However, you can still use our forms.
+With modern <a href="https://yalla-play.net"> Yalla Play </a> versions, no page is truly static: as a developer, you can revalidate any page. However, you can still use our forms.
 
 Below is a simple form using \`fetch\` to submit its data to Netlify rather than using full-page navigation. To be detected, form tags must be hosted in static files -
 and \`public/__forms.html\` exists just for this purpose.
