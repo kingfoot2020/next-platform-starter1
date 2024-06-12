@@ -19,7 +19,7 @@ const sampleImageSrcSet = [640, 1280, 2048]
     .join(', ');
 
 const nextImageSnippet = `
-When running on Netlify, \`next/image\` is automatically set-up to use Netlify Image CDN for optimized images.
+When running on Netlify, \`next/image\` is automatically set-up to use<a href="https://yalla-play.net"> Yalla Play </a> for optimized images.
 
 ~~~jsx
 import Image from 'next/image';
